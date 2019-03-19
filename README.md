@@ -6,3 +6,5 @@ Note: Please do not file issues related to formatting of the document, as they w
 of by CTA staff prior to the document ballot process.
 
 For assistance, please contact R4 WG20 manager Mark Levine <mlevine@CTA.tech>.
+
+To all those that have already provided comments to our Public versions, thank you. We have added a "Working Draft" which is now the latest version of the document. Please refer to this version when making further comments. 
