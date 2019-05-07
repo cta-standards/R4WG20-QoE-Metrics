@@ -1,5 +1,7 @@
 # R4WG20-QoE-Metrics
 
+Please note the public comment period for CTA-2066 is now over. Please do not comment futher. Thank you.
+
 To all those that have already provided comments to our previous Public versions, thank you. We have added a "Working Draft" which is now the latest version of the document. Please refer to this version when making further comments. Plesae note we have done our best to fix formatting issues that exisisted in previous versions. No substantive changes were made. 
 
 Issue tracking repository for the R4 WG20 QoE Initiative
